@@ -14,3 +14,5 @@ To further validate our model, we then plot the test images, prediction, probabi
 From the plot, we observed only 1 image predicted incorrectly, this is perhaps due to the hazy greyish background which makes our model suggest the presence of black smoke. 
 
 ![Alt text](test_images.png?raw=true "Prediction on test images")
+
+This is part of the project for IND5002 Digital-Physical Integration (NUS MSc. Industry 4.0).
